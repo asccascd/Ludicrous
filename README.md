@@ -1,5 +1,5 @@
 # Ludicrous
-The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrous
+The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrousa
 
 <img src="https://github.com/TitaniumNetwork-dev/Ludicrous/blob/main/example.jpeg?raw=true">
 
